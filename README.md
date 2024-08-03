@@ -17,6 +17,7 @@ Sonic Odyssey Bot is an application designed for interacting with the Sonic Odys
 
 - Node.js installed on your machine
 - `npm` or `yarn` package manager
+- Faucet token: https://faucet.sonic.game
 
 ## Installation
 
@@ -74,13 +75,13 @@ Sonic Odyssey Bot is an application designed for interacting with the Sonic Odys
 Run the bot using Node.js:
 
 ```bash
-npm start
+node index.js
 ```
 
-or
+Run the bot for daily checkin/ Claim box/ Open box:
 
 ```bash
-npm run claim
+node claim.js
 ```
 
 Follow the prompts to:
