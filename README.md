@@ -44,6 +44,7 @@ Sonic Odyssey Bot is an application designed for interacting with the Sonic Odys
 
    - Create `accounts.json` with an array of seed phrases.
    - Create `privateKeys.json` with an array of private keys (base58 encoded).
+   - Create `proxy.tx`
 
    Example `accounts.json`:
    ```json
@@ -59,6 +60,13 @@ Sonic Odyssey Bot is an application designed for interacting with the Sonic Odys
      "base58_private_key_1",
      "base58_private_key_2"
    ]
+   ```
+
+   Example `proxy.txt`
+   ```
+   username:pass@ip:port
+   username:pass@ip:port
+   (Can use multiple proxy)
    ```
 
 ## Usage
