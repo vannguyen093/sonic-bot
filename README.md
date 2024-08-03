@@ -23,13 +23,13 @@ Sonic Odyssey Bot is an application designed for interacting with the Sonic Odys
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/dante4rt/sonic-odyssey-bot.git
+   https://github.com/vannguyen093/sonic-bot.git
    ```
 
 2. Navigate into the project directory:
 
    ```bash
-   cd sonic-odyssey-bot
+   cd sonic-bot
    ```
 
 3. Install dependencies:
